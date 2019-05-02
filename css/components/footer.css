@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  background-color: #B29861;
+  height:75px;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  display: inline-block;
+  font-size: 20px;
+}
+
+#list {
+  font-size: 20px;
+}

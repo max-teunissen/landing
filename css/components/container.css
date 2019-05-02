@@ -1,0 +1,35 @@
+.container {
+  margin: 0px 200px;
+}
+
+.font-family {
+  font-family: 'Merriweather', serif;
+}
+
+.lewagon_title {
+  color: white;
+  font-size: 65px;
+}
+
+.subtitle {
+  color: white;
+  font-size: 25px;
+}
+
+.btn {
+  display:block;
+  width: 120px;
+  font-size: 22px;
+  color: white;
+  background-color: #B29861;
+  padding: 16px 29px;
+  border-radius: 25px;
+  margin-top: 30px;
+}
+
+#header-2 {
+  text-align: center;
+  color: #845a17;
+  font-size: 40px;
+}
+
